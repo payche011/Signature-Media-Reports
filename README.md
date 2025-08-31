@@ -1,2 +1,7 @@
-# Signature-Media-Reports
-All significant updates, changes, and interventions for **[Client]** are recorded here.   Format: **[YYYY-MM-DD] – type – description – status/notes**
+# Signaturemedia Reports
+
+Monorepo with per-client changelogs.
+
+## How to log a change
+1) Open the client's file: `clients/<client-slug>/CHANGELOG.md`  
+2) Add a new entry under today's date:
